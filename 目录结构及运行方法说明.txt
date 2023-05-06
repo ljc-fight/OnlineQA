@@ -1,0 +1,13 @@
+WebQA:
+|-client_admin #管理员前端
+|  
+|-client_home  #用户前端
+|
+|-server       #后端
+
+
+运行方法：
+
+首次运行：Windows下双击 "重新构建运行.bat"
+
+二次运行：Windows下双击"运行.bat"
